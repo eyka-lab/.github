@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -22,6 +20,6 @@ A lab for exploring and deploying enterprise solutions.
 </p>
 
 <p align="center">
-- <a href="https://eyka.com.tech">Homepage</a>
+- <a href="https://eyka.com">Homepage</a>
 - <a href="https://discord.gg/E5qJfGAcuv">Discord Community</a> -
 </p>
