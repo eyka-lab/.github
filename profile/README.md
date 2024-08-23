@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <p align="center">
-  <img width="360px" src="https://raw.githubusercontent.com/eyka-lab/.github/main/assets/img/logo.png" alt="EY/KA Lab" title="EY/KA Lab">
+  <img width="380px" src="https://raw.githubusercontent.com/eyka-lab/.github/main/assets/img/logo.png" alt="EY/KA Lab" title="EY/KA Lab">
 </p>
 
 <p align="center">
