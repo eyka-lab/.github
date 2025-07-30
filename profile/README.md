@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-    <b>Generative AI Solutions</b> <br>
-A lab for exploring and deploying enterprise solutions.
+    <b>AI Solutions Though Co-Innovation.</b> <br>
+A co-innovation lab dedicated to exploring and delivering cutting-edge AI solutions.
 </p>
 <p align="center">
 </p>
