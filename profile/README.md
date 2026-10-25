@@ -20,6 +20,5 @@ A co-innovation lab dedicated to exploring and delivering cutting-edge AI soluti
 </p>
 
 <p align="center">
-- <a href="https://eyka.com">Homepage</a>
 - <a href="https://discord.gg/E5qJfGAcuv">Discord Community</a> -
 </p>
